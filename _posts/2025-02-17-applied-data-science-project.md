@@ -201,5 +201,4 @@ Provided actionable recommendations for marketing and inventory management.
   - Open Communication: Share findings and methodologies with stakeholders in a clear and accessible manner.
 
 ## Source Codes and Datasets
-[Dataset URL: https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews
-Upload your model files and dataset into a GitHub repo and add the link here. ](https://github.com/cynthiayiyi/ITD214_project)
+https://github.com/cynthiayiyi/ITD214_project
